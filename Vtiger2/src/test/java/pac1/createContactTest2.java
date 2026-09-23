@@ -2,7 +2,7 @@ package pac1;
 
 import org.testng.annotations.Test;
 
-public class createContactTest {
+public class createContactTest2 {
 	@Test
 	public void m1() {
 		System.out.println("execute createContactTest");
@@ -13,12 +13,5 @@ public class createContactTest {
 			System.out.println("execute modifyContactTest");
 		}
 	}
-	
-	public class deleteContactTest {
-		@Test
-		public void m1() {
-			System.out.println("execute deleteContactTest");
-		}
-}
 }
 
