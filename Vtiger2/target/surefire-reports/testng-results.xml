@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-23T12:08:57 IST" name="Surefire suite" finished-at="2026-09-23T12:08:57 IST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2026-09-23T12:08:57 IST" name="Surefire test" finished-at="2026-09-23T12:08:57 IST" duration-ms="33">
+      <class name="pac1.createContactTest">
+        <test-method signature="m1()[pri:0, instance:pac1.createContactTest@64d7f7e0]" started-at="2026-09-23T12:08:57 IST" name="m1" finished-at="2026-09-23T12:08:57 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- pac1.createContactTest -->
+      <class name="pac2.OrgTest">
+        <test-method signature="createOrgTest()[pri:0, instance:pac2.OrgTest@516be40f]" started-at="2026-09-23T12:08:57 IST" name="createOrgTest" finished-at="2026-09-23T12:08:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method signature="modifyOrgTest()[pri:0, instance:pac2.OrgTest@516be40f]" started-at="2026-09-23T12:08:57 IST" name="modifyOrgTest" finished-at="2026-09-23T12:08:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyOrgTest -->
+      </class> <!-- pac2.OrgTest -->
+      <class name="pac1.createContactTest$modifyContactTest">
+        <test-method signature="m1()[pri:0, instance:pac1.createContactTest$modifyContactTest@473b46c3]" started-at="2026-09-23T12:08:57 IST" name="m1" finished-at="2026-09-23T12:08:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- pac1.createContactTest$modifyContactTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
